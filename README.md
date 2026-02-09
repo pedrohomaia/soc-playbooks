@@ -1,2 +1,6 @@
-# soc-playbooks
-Playbooks SOC: triagem, investigação, contenção e lições aprendidas.
+# SOC Playbooks
+
+Playbooks prontos + template reutilizável.
+Foco: triagem, investigação, contenção, erradicação, recuperação e lições aprendidas.
+
+> Conteúdo para SOC (educacional/lab), sem dados sensíveis.
